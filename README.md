@@ -24,4 +24,4 @@ Lesson Objectives:
 - Use Unicode Emoji's with Python to show Icons in the Terminal
 
 # Video Tutorial
-
+[![](http://img.youtube.com/vi/RZMn7SsI9Yk/0.jpg)](https://www.youtube.com/watch?v=RZMn7SsI9Yk "MOO ICT Python Pandas Data Analysis Project Tutorial Video on YouTube")
